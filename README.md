@@ -1,4 +1,4 @@
-# View news sites
+# View news from sites
 Must have python. Tested on `python 3.11.3`.
 
 ## How to run
