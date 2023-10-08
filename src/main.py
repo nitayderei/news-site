@@ -33,7 +33,7 @@ class UrlData:
     title: str
 
 
-def aquire_data():
+def acquire_data():
     data = []
 
     for url, fil in NEWS_URLS:
@@ -74,7 +74,7 @@ def setup_page(data):
 
 
 def main():
-    data = aquire_data()
+    data = acquire_data()
     setup_page(data)
 
 
